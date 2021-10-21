@@ -1,4 +1,4 @@
-# Steal-files-by-pluging-in-aUSBDrive
+# Steal Files
 plug in a usb drive and start stealing the persons files. do at your own rsik
 Usage
 1 open notpad 
